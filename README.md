@@ -1,5 +1,6 @@
-# jmerkel_Module_18
-## Unsupervised Learning Challenge
+# Unsupervised Learning Practice
+### UC Berkeley - jmerkel_Module_18
+
 
 ### Project Description
 This project covered Unsupervised Machine Learning to group cryptocurrencies together. This was done through a process of Preprocessing to clean the data, Reduce Dimensions using PCA (limit the amount of factors that contribute to grouping), Clustering via K-Means (create the groups), and Visualizing using the data via Plotly Express and hvplot.
